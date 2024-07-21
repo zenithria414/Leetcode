@@ -3,35 +3,62 @@ class Solution {
         int R = matrix.length;
         int C = matrix[0].length;
         
-        List<Integer> rowmin = new ArrayList<>();
-        
+        int rminmax = Integer.MIN_VALUE;
         for(int i=0; i<R; i++){
             int rmin = Integer.MAX_VALUE;
             for(int j=0; j<C; j++){
-                rmin = Math.min(rmin,matrix[i][j]);
+                rmin = Math.min(rmin, matrix[i][j]);
             }
-            rowmin.add(rmin);
+            rminmax = Math.max(rminmax,rmin);
         }
         
-        List<Integer> colmax = new ArrayList<>();
-        
+        int cmaxmin = Integer.MAX_VALUE;
         for(int j=0; j<C; j++){
             int cmax = Integer.MIN_VALUE;
             for(int i=0; i<R; i++){
                 cmax = Math.max(cmax, matrix[i][j]);
             }
-            colmax.add(cmax);
+            cmaxmin = Math.min(cmaxmin, cmax);
         }
         
-        List<Integer> luckynum = new ArrayList<>();
+        List<Integer> res = new ArrayList<>();
         
-        for(int i=0; i<R; i++){
-            for(int j=0; j<C; j++){
-                if(matrix[i][j]==rowmin.get(i) && matrix[i][j]==colmax.get(j)){
-                    luckynum.add(matrix[i][j]);
-                }
-            }
+        if(rminmax == cmaxmin){
+            res.add(rminmax);
+            return res;
         }
-        return luckynum;
+        
+        return res;
+        
+//         List<Integer> rowmin = new ArrayList<>();
+        
+//         for(int i=0; i<R; i++){
+//             int rmin = Integer.MAX_VALUE;
+//             for(int j=0; j<C; j++){
+//                 rmin = Math.min(rmin,matrix[i][j]);
+//             }
+//             rowmin.add(rmin);
+//         }
+        
+//         List<Integer> colmax = new ArrayList<>();
+        
+//         for(int j=0; j<C; j++){
+//             int cmax = Integer.MIN_VALUE;
+//             for(int i=0; i<R; i++){
+//                 cmax = Math.max(cmax, matrix[i][j]);
+//             }
+//             colmax.add(cmax);
+//         }
+        
+//         List<Integer> luckynum = new ArrayList<>();
+        
+//         for(int i=0; i<R; i++){
+//             for(int j=0; j<C; j++){
+//                 if(matrix[i][j]==rowmin.get(i) && matrix[i][j]==colmax.get(j)){
+//                     luckynum.add(matrix[i][j]);
+//                 }
+//             }
+//         }
+//         return luckynum;
     }
 }
