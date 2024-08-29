@@ -13,8 +13,7 @@ class Solution {
                 if(o>1){
                     ans += ')';
                 }
-                    o--;
-                
+                    o--;  
             }
         }
         return ans;
