@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/a-number-after-a-double-reversal">2238. A Number After a Double Reversal</a></h2><h3>Easy</h3><hr><p><strong>Reversing</strong> an integer means to reverse all its digits.</p>
+<h2><a href="https://leetcode.com/problems/a-number-after-a-double-reversal">A Number After a Double Reversal</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p><strong>Reversing</strong> an integer means to reverse all its digits.</p>
 
 <ul>
 	<li>For example, reversing <code>2021</code> gives <code>1202</code>. Reversing <code>12300</code> gives <code>321</code> as the <strong>leading zeros are not retained</strong>.</li>
