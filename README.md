@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zenithria414/Leetcode/tree/master/0053-maximum-subarray) |
 | [0792-binary-search](https://github.com/zenithria414/Leetcode/tree/master/0792-binary-search) |
 ## Binary Search
@@ -21,5 +22,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zenithria414/Leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
