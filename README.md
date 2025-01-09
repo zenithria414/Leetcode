@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zenithria414/Leetcode/tree/master/0053-maximum-subarray) |
 | [0792-binary-search](https://github.com/zenithria414/Leetcode/tree/master/0792-binary-search) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/zenithria414/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zenithria414/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
@@ -40,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/zenithria414/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zenithria414/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
@@ -52,6 +54,7 @@
 ## String Matching
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/zenithria414/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zenithria414/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
