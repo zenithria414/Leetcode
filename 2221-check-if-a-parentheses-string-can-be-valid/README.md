@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid">2221. Check if a Parentheses String Can Be Valid</a></h2><h3>Medium</h3><hr><p>A parentheses string is a <strong>non-empty</strong> string consisting only of <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>. It is valid if <strong>any</strong> of the following conditions is <strong>true</strong>:</p>
+<h2><a href="https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid">Check if a Parentheses String Can Be Valid</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>A parentheses string is a <strong>non-empty</strong> string consisting only of <code>&#39;(&#39;</code> and <code>&#39;)&#39;</code>. It is valid if <strong>any</strong> of the following conditions is <strong>true</strong>:</p>
 
 <ul>
 	<li>It is <code>()</code>.</li>
