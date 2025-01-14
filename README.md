@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/zenithria414/Leetcode/tree/master/0053-maximum-subarray) |
 | [0792-binary-search](https://github.com/zenithria414/Leetcode/tree/master/0792-binary-search) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zenithria414/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zenithria414/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zenithria414/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Hash Table
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
