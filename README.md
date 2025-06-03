@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/zenithria414/Leetcode/tree/master/0198-house-robber) |
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/zenithria414/Leetcode/tree/master/0792-binary-search) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zenithria414/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zenithria414/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zenithria414/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zenithria414/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zenithria414/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
