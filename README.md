@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/zenithria414/Leetcode/tree/master/0062-unique-paths) |
 | [2238-a-number-after-a-double-reversal](https://github.com/zenithria414/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 ## Array
 |  |
@@ -31,6 +32,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zenithria414/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/zenithria414/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/zenithria414/Leetcode/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zenithria414/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/zenithria414/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
