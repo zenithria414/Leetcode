@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/zenithria414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zenithria414/Leetcode/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/zenithria414/Leetcode/tree/master/0135-candy) |
@@ -78,6 +79,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/zenithria414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/zenithria414/Leetcode/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/zenithria414/Leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/zenithria414/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
