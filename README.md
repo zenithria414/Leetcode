@@ -47,6 +47,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/zenithria414/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/zenithria414/Leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/zenithria414/Leetcode/tree/master/0937-online-stock-span) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zenithria414/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -121,6 +122,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/zenithria414/Leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/zenithria414/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
