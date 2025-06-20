@@ -19,6 +19,7 @@
 | [0777-toeplitz-matrix](https://github.com/zenithria414/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/zenithria414/Leetcode/tree/master/0792-binary-search) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zenithria414/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/zenithria414/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/zenithria414/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zenithria414/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -49,6 +50,7 @@
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/zenithria414/Leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/zenithria414/Leetcode/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/zenithria414/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zenithria414/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
@@ -124,6 +126,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/zenithria414/Leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/zenithria414/Leetcode/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/zenithria414/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
