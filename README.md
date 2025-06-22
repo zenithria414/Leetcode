@@ -19,6 +19,7 @@
 | [0503-next-greater-element-ii](https://github.com/zenithria414/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/zenithria414/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/zenithria414/Leetcode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/zenithria414/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/zenithria414/Leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/zenithria414/Leetcode/tree/master/0860-design-circular-queue) |
@@ -61,6 +62,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/zenithria414/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/zenithria414/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zenithria414/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/zenithria414/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/zenithria414/Leetcode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/zenithria414/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zenithria414/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -70,6 +72,7 @@
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/zenithria414/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zenithria414/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/zenithria414/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/zenithria414/Leetcode/tree/master/0937-online-stock-span) |
 ## String
 |  |
