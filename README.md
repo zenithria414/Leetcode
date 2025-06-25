@@ -150,12 +150,14 @@
 | [0155-min-stack](https://github.com/zenithria414/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/zenithria414/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zenithria414/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/zenithria414/Leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/zenithria414/Leetcode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/zenithria414/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/zenithria414/Leetcode/tree/master/0937-online-stock-span) |
 ## Sorting
 |  |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zenithria414/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -183,4 +186,16 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/zenithria414/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
