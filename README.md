@@ -26,6 +26,7 @@
 | [0777-toeplitz-matrix](https://github.com/zenithria414/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/zenithria414/Leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/zenithria414/Leetcode/tree/master/0860-design-circular-queue) |
+| [1137-height-checker](https://github.com/zenithria414/Leetcode/tree/master/1137-height-checker) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zenithria414/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/zenithria414/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/zenithria414/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zenithria414/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1137-height-checker](https://github.com/zenithria414/Leetcode/tree/master/1137-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/zenithria414/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/zenithria414/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
