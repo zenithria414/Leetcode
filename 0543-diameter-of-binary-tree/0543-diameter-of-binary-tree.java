@@ -14,23 +14,38 @@
  * }
  */
 class Solution {
-    public int height (TreeNode root){
-        if(root == null){
-            return 0;
+    class Info{
+        int ht;
+        int diam;
+        Info(int ht, int diam){
+            this.ht = ht;
+            this.diam = diam;
         }
-        int rightHeight = height(root.right);
-        int leftHeight = height(root.left);
-        return Math.max(rightHeight,leftHeight)+1;
+    }
+    // public int height (TreeNode root){
+    //     if(root == null){
+    //         return 0;
+    //     }
+    //     int rightHeight = height(root.right);
+    //     int leftHeight = height(root.left);
+    //     return Math.max(rightHeight,leftHeight)+1;
+    // }
+    public Info diameter(TreeNode root){
+        if(root == null){
+            return new Info(0,0);
+        }
+        
+        Info leftDia = diameter(root.left);
+        Info rightDia = diameter(root.right);
+
+        int ht = Math.max(leftDia.ht, rightDia.ht)+1;
+        int selfDia = leftDia.ht + rightDia.ht ;
+        int dia = Math.max(selfDia, Math.max(leftDia.diam, rightDia.diam));
+
+        return new Info(ht, dia);
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null){
-            return 0;
-        }
-        
-        int totalDia = height(root.left)+height(root.right);
-        int leftDia = diameterOfBinaryTree(root.left);
-        int rightDia = diameterOfBinaryTree(root.right);
-        
-        return Math.max(Math.max(leftDia, rightDia),totalDia);
+        int diam = diameter(root).diam;
+        return diam;
     }
 }
