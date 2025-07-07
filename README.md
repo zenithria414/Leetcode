@@ -203,6 +203,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/zenithria414/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zenithria414/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -213,6 +214,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/zenithria414/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/zenithria414/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/zenithria414/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
