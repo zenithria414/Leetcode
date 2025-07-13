@@ -122,6 +122,7 @@
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/zenithria414/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/zenithria414/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/zenithria414/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -174,6 +176,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/zenithria414/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/zenithria414/Leetcode/tree/master/1137-height-checker) |
 ## Heap (Priority Queue)
 |  |
@@ -208,6 +211,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/zenithria414/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -220,6 +224,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/zenithria414/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zenithria414/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -234,6 +239,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/zenithria414/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/zenithria414/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
