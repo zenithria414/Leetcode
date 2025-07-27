@@ -86,6 +86,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/zenithria414/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/zenithria414/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/zenithria414/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zenithria414/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zenithria414/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/zenithria414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/zenithria414/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -198,6 +200,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/zenithria414/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zenithria414/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/zenithria414/Leetcode/tree/master/0860-design-circular-queue) |
 ## Memoization
 |  |
@@ -235,6 +238,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
