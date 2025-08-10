@@ -6,6 +6,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/zenithria414/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/zenithria414/Leetcode/tree/master/0070-climbing-stairs) |
+| [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/zenithria414/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/zenithria414/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/zenithria414/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -137,6 +138,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/zenithria414/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
+| [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -197,6 +199,7 @@
 | [0056-merge-intervals](https://github.com/zenithria414/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zenithria414/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/zenithria414/Leetcode/tree/master/1137-height-checker) |
 ## Heap (Priority Queue)
@@ -260,6 +263,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,4 +285,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/zenithria414/Leetcode/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
