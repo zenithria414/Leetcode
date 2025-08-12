@@ -102,6 +102,7 @@
 | [0014-longest-common-prefix](https://github.com/zenithria414/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/zenithria414/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/zenithria414/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/zenithria414/Leetcode/tree/master/0038-count-and-say) |
 | [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/zenithria414/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zenithria414/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
