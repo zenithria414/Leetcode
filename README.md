@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zenithria414/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/zenithria414/Leetcode/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/zenithria414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/zenithria414/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/zenithria414/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/zenithria414/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/zenithria414/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -199,6 +201,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/zenithria414/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/zenithria414/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zenithria414/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
