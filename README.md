@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zenithria414/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/zenithria414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/zenithria414/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/zenithria414/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -96,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zenithria414/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/zenithria414/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/zenithria414/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -107,6 +109,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/zenithria414/Leetcode/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zenithria414/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
