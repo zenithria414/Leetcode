@@ -42,6 +42,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/zenithria414/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/zenithria414/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/zenithria414/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/zenithria414/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zenithria414/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
@@ -144,6 +145,7 @@
 | [0455-assign-cookies](https://github.com/zenithria414/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/zenithria414/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zenithria414/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/zenithria414/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
 | [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/zenithria414/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -281,6 +284,7 @@
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/zenithria414/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Depth-First Search
 |  |
 | ------- |
