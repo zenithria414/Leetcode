@@ -33,6 +33,7 @@
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/zenithria414/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/zenithria414/Leetcode/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/zenithria414/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/zenithria414/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/zenithria414/Leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/zenithria414/Leetcode/tree/master/0860-design-circular-queue) |
@@ -64,6 +65,7 @@
 | [0062-unique-paths](https://github.com/zenithria414/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/zenithria414/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/zenithria414/Leetcode/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/zenithria414/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/zenithria414/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/zenithria414/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Two Pointers
