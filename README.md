@@ -115,6 +115,7 @@
 | [0038-count-and-say](https://github.com/zenithria414/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/zenithria414/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/zenithria414/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/zenithria414/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/zenithria414/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -156,6 +157,7 @@
 | [0037-sudoku-solver](https://github.com/zenithria414/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/zenithria414/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/zenithria414/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/zenithria414/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/zenithria414/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -224,6 +226,7 @@
 | [0049-group-anagrams](https://github.com/zenithria414/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/zenithria414/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/zenithria414/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/zenithria414/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/zenithria414/Leetcode/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
