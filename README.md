@@ -10,6 +10,7 @@
 | [1013-fibonacci-number](https://github.com/zenithria414/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/zenithria414/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/zenithria414/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/zenithria414/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 ## Array
 |  |
 | ------- |
@@ -320,4 +321,8 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/zenithria414/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
