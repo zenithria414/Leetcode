@@ -48,6 +48,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/zenithria414/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/zenithria414/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/zenithria414/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [0680-valid-palindrome-ii](https://github.com/zenithria414/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/zenithria414/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/zenithria414/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [3689-maximum-total-subarray-value-i](https://github.com/zenithria414/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
