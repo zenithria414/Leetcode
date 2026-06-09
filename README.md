@@ -34,6 +34,7 @@
 | [0496-next-greater-element-i](https://github.com/zenithria414/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zenithria414/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/zenithria414/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/zenithria414/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/zenithria414/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/zenithria414/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -165,6 +166,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/zenithria414/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/zenithria414/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/zenithria414/Leetcode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/zenithria414/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/zenithria414/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/zenithria414/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/zenithria414/Leetcode/tree/master/0645-set-mismatch) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/zenithria414/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Breadth-First Search
 |  |
@@ -232,6 +235,7 @@
 | [0242-valid-anagram](https://github.com/zenithria414/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/zenithria414/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/zenithria414/Leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/zenithria414/Leetcode/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/zenithria414/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/zenithria414/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/zenithria414/Leetcode/tree/master/1137-height-checker) |
